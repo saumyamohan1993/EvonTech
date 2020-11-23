@@ -31,7 +31,7 @@ public class TestingCustomplugin extends CordovaPlugin {
     // }
 
       private void add(JSONArray args, CallbackContext callback) {
-        if (args != null  {
+        if (args != null)  {
             
             try
             {
